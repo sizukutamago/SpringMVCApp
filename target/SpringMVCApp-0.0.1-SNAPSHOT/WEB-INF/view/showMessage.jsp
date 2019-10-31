@@ -8,6 +8,13 @@
 		<title>Welcome</title>
 	</head> 
 	<body>
-		<h2>${message}</h2>
+		<h2>this is sample page.</h2>
+		<p>${msg}</p>
+
+		<form method="post" action="/post">
+			<input type="text" name="title">
+			<textarea name="content"></textarea><br/>
+			<input type="submit">
+		</form>
 	</body>
 </html>
