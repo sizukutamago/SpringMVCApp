@@ -21,7 +21,7 @@
 		
 
 		<!-- Spring -->
-		<spring-framework.version>5.0.0.RELEASE</spring-framework.version>
+		<spring-framework.version>5.2.20.RELEASE</spring-framework.version>
 		<spring-data-jpa.version>2.0.0.RELEASE</spring-data-jpa.version>
 
 
